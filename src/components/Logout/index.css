@@ -1,0 +1,10 @@
+/* Write your CSS here */
+button {
+  background-color: #f8fafc;
+  color: #303150;
+  padding: 10px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  border: none;
+  border-radius: 12px;
+}
